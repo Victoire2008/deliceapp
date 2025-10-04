@@ -2,6 +2,7 @@
 // config.php : connexion à la base de données MySQL
 
 $host = 'localhost';
+$db   = 'délicesapp';
 $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
